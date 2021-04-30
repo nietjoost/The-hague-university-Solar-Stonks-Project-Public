@@ -15,4 +15,4 @@ Used technics:
 
 ## Back-end
 ![Backend screenshot 1](https://github.com/nietjoost/The-hague-university-Solar-Stonks-Project/blob/main/Screenshots/Backend-1.png)
-![Backend screenshot 2](https://github.com/nietjoost/The-hague-university-Solar-Stonks-Project/blob/main/Screenshots/Backend-1.png)
+![Backend screenshot 2](https://github.com/nietjoost/The-hague-university-Solar-Stonks-Project/blob/main/Screenshots/Backend-2.png)
