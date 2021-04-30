@@ -1,4 +1,4 @@
-# The hague university Solar-Stonks Project
+# The hague university Solar Stonks Project
 
 Used technics:
 * .NET CORE API
